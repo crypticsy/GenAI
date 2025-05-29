@@ -6,5 +6,5 @@ TODAY=$(date +"%Y-%m-%d")
 # add all changes
 git add *
 # commit changes
-git commit -m "🤖 updated content : $TODAY"
+git commit -m "🤖 Automatic commit : $TODAY"
 git push origin master
