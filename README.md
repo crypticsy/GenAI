@@ -1,4 +1,4 @@
-# Notebooks on LLM and GenAI
+# Notebooks & Simple projects on LLM and Gen AI
 
 <br/>
 
