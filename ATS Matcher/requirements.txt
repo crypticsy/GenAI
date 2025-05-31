@@ -1,0 +1,4 @@
+streamlit==1.45.1
+pdfplumber==0.11.6
+langchain==0.3.25
+langchain_ollama==0.3.3
