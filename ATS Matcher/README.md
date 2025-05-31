@@ -3,6 +3,16 @@
 
 A lightweight, intelligent resume analyzer built with **Streamlit**, **LangChain**, and **Ollama**. This app compares your **PDF resume** with a **job description** using a local LLM (e.g., `llama3`) and provides feedback, ATS optimization suggestions, and rewrites based on prompt-driven reasoning.
 
+
+<br/>
+<div align="center" style="flex-direction: column;">
+  <img src="./images/demo.png" alt="System Demo" width="100%"/>
+  <div style="font-size: 0.8em; color: gray;">Demo UI</div>
+</div>
+
+<br/>
+
+
 ---
 
 ## 🚀 What It Does
@@ -14,7 +24,6 @@ A lightweight, intelligent resume analyzer built with **Streamlit**, **LangChain
   * Extract common keywords
   * Calculate a basic match score
   * Suggest 3–5 ATS improvements
-  * Rewrite your resume to better align with the job
 
 ---
 
@@ -36,13 +45,10 @@ A lightweight, intelligent resume analyzer built with **Streamlit**, **LangChain
 
 ### ✅ Roadmap:
 
+* [ ] **Scrape job descriptions** from LinkedIn or other sources
 * [ ] **Skill gap detection** – highlight what's missing in the resume
-* [ ] **PDF resume rewriting + download**
-* [ ] **Named Entity Recognition (NER)** for company names, skills, and roles
 * [ ] **Token-level keyword highlighting** between resume and job
 * [ ] **Job title classification** to adjust tone and structure accordingly
-* [ ] **Voice input support** for job descriptions
-* [ ] **Browser extension version**
 
 ---
 
