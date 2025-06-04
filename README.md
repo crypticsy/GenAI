@@ -1,4 +1,4 @@
-# Notebooks & Simple projects on LLM and Gen AI
+# Hands-on Notebooks & Projects on the Latest in AI and LLMs
 
 <br/>
 
@@ -7,6 +7,7 @@
 - [Gen AI Intensive Course by Google](./Gen%20AI%20Intensive%20Course%20by%20Google/)
 - [Introduction to Large Language Models](./Introduction%20to%20Large%20Language%20Models/)
 - [Llama Fundamentals](./Llama%20Fundamentals/)
+- [Machine Learning in Production](./Machine%20Learning%20in%20Production/)
 - [Machine Learning Scientist](./Machine%20Learning%20Scientist/)
 
 <br/>
