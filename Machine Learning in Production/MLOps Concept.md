@@ -23,3 +23,40 @@ MLOps Lifecycle:
   - Monitoring the performance
 
 <br/>
+
+CI/CD Pipeline:
+- Continuous Integration (CI)
+  - Plan
+  - Code
+  - Build
+  - Test
+- Continuous Deployment (CD)
+  - Release
+  - Deploy
+  - Operate
+
+<br/>
+
+Tools to know:
+- Feature Store
+  - Feast : self-managed
+  - Hopsworks : part of a larger platform
+- Experiment Tracking
+  - MLflow and ClearML : full machine learning lifecycle tool
+  - Weights & Biases : tracking and visualizing experiments
+- Containerization
+  - Docker : containerizing applications
+  - Kubernetes : running containerized applications
+  - Cloud Providers : provides Kubernetes-like services
+- CI/CD piepline
+  - Jenkins : open-source continuous integration tool
+  - GitLab : code sharing and version control through repositories
+- Monitoring
+  - Fiddler : machine learning model monitoring
+  - Great Expectations : data quality monitoring
+- MLOps platforms
+  - AWS SageMaker
+  - Azure Machine Learning
+  - Google Cloud AI Platform
+
+<br/>
